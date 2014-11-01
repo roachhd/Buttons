@@ -7,7 +7,7 @@ Quickly get started by [visiting the Buttons Builder Website](http://alexwolfe.g
 
 [![Example of Buttons](https://dl.dropboxusercontent.com/u/1517246/builder.png "Example of Buttons")](http://alexwolfe.github.io/Buttons/)
 
-Setup & Installation
+Setup & Installation 
 ====================
 
 1. Visit the [Buttons Builder Website](http://alexwolfe.github.io/Buttons/), download and add files to your website.
